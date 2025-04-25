@@ -1,4 +1,5 @@
 # Batch InfoStealer (Discord Webhook)
+PLEASE USE THE https://github.com/deadexotic/batchstealerpewpew/issues TAB TO TELL ME ABOUT ANY BUGS, OR GIVE RECOMMENDATIONS
 
 A lightweight information stealer written in Batch that collects system details and Steam data, then exfiltrates it via Discord webhooks.
 
